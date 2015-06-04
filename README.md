@@ -1,10 +1,11 @@
 
-2015-05-03-NDIC
+2015-07-22-James-Madison
 ==================
 
-Data Carpentry workshop
+Genomics Data Carpentry workshop at James Madison University
 
-2015 HASTAC Conference at MSU
+Workshop website: http://datacarpentry.github.io/2015-07-22-JamesMadison/
+
 
 
 
