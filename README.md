@@ -1,10 +1,11 @@
 
-2015-07-22-James-Madison
+2015-08-19-Harvard
 ==================
 
-Genomics Data Carpentry workshop at James Madison University
+Genomics Data Carpentry workshop at Harvard University
 
-Workshop website: http://datacarpentry.github.io/2015-07-22-JamesMadison/
+Workshop website: http://fasrc.github.io/2015-08-19-Harvard/
+
 
 
 
